@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DH_package",
+    name="DH_PyPackage",
     version="0.0.1",
     author="DongHoon Kim",
     author_email="donghoon5793@gmail.com",
